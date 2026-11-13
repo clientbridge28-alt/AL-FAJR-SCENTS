@@ -1,0 +1,6 @@
+{
+  "name": "Al Fajr Scents",
+  "description": "Al Fajr Scents — Fine Eau de Parfum house in Pakistan. Discover Blu Mare, Silver Coast, Shadow X, Midnight Aura, Rose Whisper, and artisanal 50ml fragrances.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
